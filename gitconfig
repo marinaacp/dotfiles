@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marinacp.pessoa@gmail.com
+	name = Marina Pessoa
